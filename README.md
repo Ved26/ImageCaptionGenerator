@@ -1,8 +1,10 @@
 # ImageCaptionGenerator
 
-The project uses FLickr8k dataset that consists of 8000 images along with 5 captions per image. The dataset can be downloaded here: https://www.kaggle.com/datasets/waelboussbat/flickr8ksau/code
+The project uses FLickr8k dataset that consists of 8000 images along with 5 captions per image. The dataset can be downloaded here: https://www.kaggle.com/datasets/waelboussbat/flickr8ksau/code<br>
+
 For word-embeddings Glove-200d embeddings are used which can be downloaded here: https://www.kaggle.com/datasets/incorpes/glove6b200d
 <br>
+
 Please make sure that before to run the file, a folder "datasets" needs to be created with following structure:
 <br>
   1. Flickr_Data(folder)
