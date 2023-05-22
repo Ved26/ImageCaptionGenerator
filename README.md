@@ -22,6 +22,9 @@ Run the  notebook "ImageCaptioning.ipynb" and save "model_30.h5"
 
 <br>
 Run app.py and the local web app will open.
+<br>
+
+
 ```python app.py```
 
 <br>
