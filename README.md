@@ -30,3 +30,11 @@ Run app.py and the local web app will open.
 ```python app.py```
 
 <br>
+
+
+## Demo
+
+
+https://github.com/Ved26/ImageCaptionGenerator/assets/122666645/634012f0-2642-475b-9d96-302194a34f73
+
+
